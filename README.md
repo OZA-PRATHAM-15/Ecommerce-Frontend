@@ -7,6 +7,14 @@ This project is a frontend application for an e-commerce website built using Nex
 - Home page showcasing featured products
 - Product listing and details pages
 
+## Screenshots
+
+![Home Page](./public/ss.jpg)
+_Home Page - Showcase of featured products_
+
+![Product Details](./public/ss1.jpg)
+_Product Details - Example of a product detail page_
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/)
