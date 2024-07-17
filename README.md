@@ -1,6 +1,8 @@
 # E-commerce Website Frontend
 
 This project is a frontend application for an e-commerce website built using Next.js. This project serves as my initial learning project for Next.js.
+### Live Demo
+https://nextjs-ecommerce-frontend.netlify.app/
 
 ## Features
 
